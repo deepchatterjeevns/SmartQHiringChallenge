@@ -26,3 +26,9 @@ python3 mange.py loaddata
 
 python3 manage.py createsuperuser
 ```
+
+### API's
+http://localhost:8000/total_sale/?restaurant=kanti%20sagar
+
+http://localhost:8000/total_sale/?restaurant=kanti%20sagar,deepak
+
